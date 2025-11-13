@@ -1,2 +1,17 @@
-.env 
-".env" 
+# Python
+__pycache__/
+*.pyc
+
+# venv
+venv/
+.venv/
+env/
+
+# Data and models (do not commit)
+*.csv
+*.xlsx
+model.pkl
+*.pkl
+*.h5
+*.pt
+.env
