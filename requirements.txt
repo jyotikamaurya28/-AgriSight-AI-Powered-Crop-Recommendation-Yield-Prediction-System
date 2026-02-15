@@ -7,3 +7,7 @@ transformers
 torch
 sentencepiece
 accelerate
+numpy
+requests
+openai
+
